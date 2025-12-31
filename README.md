@@ -1,7 +1,7 @@
 # Hi 👋 I'm Oğuzhan
 
 🎓 Management Information Systems (MIS) student  
-💻 Aspiring Python Backend & AI Engineer  
+💻 Software Developer 
 📍 Istanbul, Turkey
 
 ---
@@ -15,12 +15,11 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages & Tools:**
-- Python 🐍
-- Swift 🍎
-- SQL 🗄️
-- R 📊
-- Git & GitHub
+**Languages**
+- 🐍 Python
+- 🧠 Swift
+- 🗄️ SQL
+- 📊 R
 
 
 **Data & AI:**
